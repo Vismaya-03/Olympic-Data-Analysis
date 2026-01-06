@@ -18,14 +18,14 @@ The application is fully interactive and allows users to explore insights dynami
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🥇 Medal Tally
+### Medal Tally
 - Filter medals by **Year**, **Country**, and **Season**
 - View overall and specific Olympic medal tallies
 - Dynamically updated tables
 
-### 📊 Overall Analysis
+### Overall Analysis
 - Key statistics:
   - Editions  
   - Host Cities  
@@ -65,7 +65,7 @@ The application is fully interactive and allows users to explore insights dynami
 
 ---
 
-## 📂 Dataset Used
+## Dataset Used
 - `athlete_events.csv` – Historical Olympic athlete data  
 - `noc_regions.csv` – National Olympic Committee region mapping  
   [Data Link](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
